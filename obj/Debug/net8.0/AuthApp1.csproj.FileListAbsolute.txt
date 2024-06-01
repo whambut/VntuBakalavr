@@ -134,3 +134,4 @@ C:\Users\asuro\AuthApp1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.re
 C:\Users\asuro\AuthApp1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\asuro\AuthApp1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\asuro\AuthApp1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\asuro\AuthApp1\obj\Debug\net8.0\AuthApp1.sourcelink.json
